@@ -1,6 +1,6 @@
 {
   "name": "zocket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zocket: An opinionated uWebSocket API server.",
   "main": "index.js",
   "repository": "anrid/zocket",
