@@ -13,5 +13,11 @@
     "express": "^4.15.3",
     "jsonwebtoken": "^7.4.1",
     "uws": "^8.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "dev": "nodemon -w lib/ -w examples/ --exec 'node --harmony' examples/start-simple-socket-server.js"
   }
 }
