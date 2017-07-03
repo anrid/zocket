@@ -1,0 +1,17 @@
+{
+  "name": "zocket",
+  "version": "1.0.0",
+  "description": "Zocket: An opinionated uWebSocket API server.",
+  "main": "index.js",
+  "repository": "anrid/zocket",
+  "author": "Anri Digholm",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cors": "^2.8.3",
+    "date-fns": "^1.28.5",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "uws": "^8.14.0"
+  }
+}
