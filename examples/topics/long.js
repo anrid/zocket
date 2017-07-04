@@ -4,7 +4,7 @@ const P = require('bluebird')
 
 async function long () {
   // Delay 2 sec.
-  await P.delay(2000)
+  await P.delay(2500)
 
   return {
     reply: {
